@@ -1,0 +1,6 @@
+DBNAME = "overcare"
+SERVER = "10.117.2.34"
+SERVERNAME = ""
+USER = "overcare"
+PASSWORD = "overcare"
+PORT = "5432"
